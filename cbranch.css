@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(ad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit; ;
+    font-family: sans-serif;
+}
+.Button
+{
+	font-family: monospace;
+	font-size: 24px;
+	border-radius: 9px;
+	padding: 12px 19px;
+	background-color: #03A9F4;
+	color: #ffffff;
+  position: fixed;
+  left: 40%;
+  top: 80%;
+}1
